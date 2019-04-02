@@ -1,0 +1,8 @@
+platform:ios,'8.0'
+
+target 'ZJSiOS4Flutter' do
+
+flutter_application_path = '../my_flutter/'
+eval(File.read(File.join(flutter_application_path, '.ios', 'Flutter', 'podhelper.rb')), binding)
+
+end

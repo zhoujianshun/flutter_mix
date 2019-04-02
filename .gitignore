@@ -11,3 +11,13 @@ pubspec.lock
 # Directory created by dartdoc
 # If you don't generate documentation locally you can remove this line.
 doc/api/
+
+
+ZJSiOS4Flutter/ZJSiOS4Flutter.xcworkspace/
+ZJSiOS4Flutter/Pods/
+ZJSiOS4Flutter/Podfile.lock
+
+ZJSiOS4Flutter/Pods/Pods.xcodeproj/xcuserdata/*
+ZJSiOS4Flutter/ZJSiOS4Flutter.xcodeproj/xcuserdata/*
+ZJSiOS4Flutter/ZJSiOS4Flutter.xcworkspace/xcuserdata/*
+ZJSiOS4Flutter/ZJSiOS4Flutter/ZJSiOS4Flutter.xcodeproj/xcuserdata/*
